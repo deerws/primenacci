@@ -64,7 +64,7 @@ class App(ctk.CTk):
 
     def login_screen(self):
         # Image
-        self.img = PhotoImage(file="image_with_purple_background.png")
+        self.img = PhotoImage(file="image_background.png")
         self.lb_img = ctk.CTkLabel(self, text=None, image=self.img)
         self.lb_img.grid(row=50, column=0, padx=0)
 
