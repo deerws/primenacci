@@ -9,4 +9,4 @@ This repository contains examples with graphic interface to calculate:
 
 ## How to Use
 
-Run the files using Python 3. Test by passing the desired values as input.
+Use Python 3 to run. Choose values as input.
